@@ -1,1 +1,3 @@
 uebungen-backend/.env
+uebungen-backend/node_modules
+.idea
